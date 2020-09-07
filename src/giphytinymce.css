@@ -1,0 +1,19 @@
+.giphyDialog {
+    background: blue;
+}
+
+.tox .giphyDialog .tox-collection__item {
+}
+
+.tox .giphyDialog .tox-collection__item img {
+    max-width: 100%;
+}
+
+.tox .giphyDialog .tox-collection__item-icon {
+    width: 100%;
+    height: auto;
+}
+
+.tox .giphyDialog .tox-collection__item-label {
+    display: none;
+}
