@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/tamm/tinymce-giphy/issues"
   },
-  "homepage": "https://github.com/tamm/tinymce-giphy#readme"
+  "homepage": "https://github.com/tamm/tinymce-giphy#readme",
+  "dependencies": {
+    "underscore": "^1.11.0"
+  }
 }

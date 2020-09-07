@@ -23,6 +23,21 @@ toolbar:
     `giphy`
 ```
 
+Visit https://developers.giphy.com/docs/api#quick-start-guide
+to get an API key.
+
+Then add your key to the global variable for config.
+You can also change a couple of other settings:
+
+```
+const giphyOptions = {
+  apiBase: 'https://api.giphy.com/v1',
+  apiKey: 'YOUR-KEY-HERE', // https://developers.giphy.com/docs/api#quick-start-guide
+  minimumCharactersToSearch: 3,
+  throttleAPIRequestsMs: 300,
+}
+```
+
 ## License
 
 As TinyMCE is GPL, this is GPL. 
