@@ -6,9 +6,15 @@ Note: Giphy suggests using their SDK rather than API, and the included key is a 
 
 This also demonstrates how you can use the TinyMCE Dialog Collection component to select an image. 
 
+![Screenshot](/screenshot.png?raw=true "Screenshot")
+
 ## Getting set up
 
-Install and import as 
+Install 
+```
+npm install https://github.com/tamm/tinymce-giphy.git -S
+```
+and import as 
 ```
 import 'tinymce-giphy';
 ```

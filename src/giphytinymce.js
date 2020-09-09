@@ -1,3 +1,5 @@
+/*global giphyOptions*/
+
 import tinymce from 'tinymce/tinymce';
 import throttle from 'underscore/modules/throttle.js'
 import './giphytinymce.css';
