@@ -17,3 +17,9 @@
 .tox .giphyDialog .tox-collection__item-label {
     display: none;
 }
+
+.tox .tox-tbtn__icon-wrap svg.giphy-icon {
+    height: auto;
+    width: 42px;
+    max-width: 100%;
+}
