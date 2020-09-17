@@ -6,7 +6,7 @@ import './giphytinymce.css';
 
 const giphyOptionsDefault = {
   apiBase: 'https://api.giphy.com/v1',
-  apiKey: 'lBj9wdWfSYDszxMdstVhL6ODrxDLh8Xr', // https://developers.giphy.com/docs/api#quick-start-guide
+  apiKey: 'no-api-key', // https://developers.giphy.com/docs/api#quick-start-guide
   minimumCharactersToSearch: 3,
   throttleAPIRequestsMs: 300,
 }
